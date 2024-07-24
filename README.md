@@ -24,7 +24,7 @@ This is an example of a Preact application that uses a `LazyImage` component to 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/preact-lazyimage-example.git
+   git clone https://github.com/jameswquinn/preact-lazyimage-example.git
    cd preact-lazyimage-example
    ```
 
